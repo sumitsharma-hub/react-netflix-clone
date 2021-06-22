@@ -1,5 +1,5 @@
 .bannner {
-  object-fit: contain;
+  object-fit: cover;
   height: 448px;
   color: white;
 }
