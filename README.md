@@ -3,4 +3,4 @@ this is a netflix clone made with reactjs,this clone does not contain any backen
 it shows trailers of the movies and the webseries.
 this project uses  API  of themoviedb website.
 
-https://sumitsharma-hub.github.io/react-netflix-clone/
+ https://netflix-clone-644b6.web.app
